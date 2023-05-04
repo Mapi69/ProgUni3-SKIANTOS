@@ -1,7 +1,10 @@
 # ProgUni3-SKIANTOS
 Progetto universitario Vessio, traccia 3
+
 Partecipanti: Fanelli Stefano, Scialpi Mario Giacomo, Taglio Lorenzo
+
 Data di consegna: ?
+
 
 # Obiettivi progetto
 (i punti indicati con il punto di domanda sono idee possibili ma non essenzialmente necessarie)
