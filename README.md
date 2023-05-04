@@ -9,4 +9,4 @@ Progetto universitario Vessio, traccia 3
 - [ ] Necessario un essenziale sistema di login
 - [ ] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
     - [ ] Inserire controllo dei file per corruzione e correttezza
--[ ] Ogni utente (cliente) ha il suo file contenente prenotazioni e preferenze musicali per migliorare la ricerca (?)
+- [ ] Ogni utente (cliente) ha il suo file contenente prenotazioni e preferenze musicali per migliorare la ricerca (?)
