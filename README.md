@@ -10,18 +10,22 @@ Data di consegna: ?
 (i punti indicati con il punto di domanda sono idee possibili ma non essenzialmente necessarie)
 - [X] Creare repository GitHub (beh se stai leggendo questa pagina significa che la repo esiste 🗿)
 - [ ] Trovare un nome per il programma
-- [ ] Internazionalizzare la repo (?)
-- [ ] All’avvio controllare connessione internet, connessione server e presenza dei file
+- [ ] All’avvio controllare connessione internet, connessione server, presenza e correttezza dei file
     - [ ] Inserire la possibilità di crearli se inesistenti (?)
-- [ ] Interfaccia utente e amministratore (?)
-- [ ] Necessario un (almeno) rudimentale sistema di login
+- [ ] Necessario un (anche rudimentale) sistema di login
     - [ ] Aggiungere crittografia (?)
+- [ ] Interfaccia utente e amministratore (?)
 - [ ] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
+    - [ ] Live feed concerti disponibili (?)
     - [ ] Inserire controllo dei file per corruzione e correttezza
 - [ ] Ogni utente (cliente) ha il suo file contenente prenotazioni e movimenti dell'account
     - [ ] Ogni utente ha le sue preferenze musicali per migliorare la ricerca (?)
 - [ ] Ogni amministratore può creare, modificare e eliminare le entry dei concerti / festival dal sistema
-    - [ ] Aggiungere snippet di 30 secondi utilizzando API di un provider di streaming musicale (Apple Music: https://developer.apple.com/documentation/applemusicapi/)
+    - [ ] Aggiungere snippet di 30 secondi utilizzando API di un provider di streaming musicale (?) (Apple Music: https://developer.apple.com/documentation/applemusicapi/)
+
+
+# Idee totalmente non essenziali
+- [ ] Internazionalizzare la repo (?)
 - [ ] Interfaccia grafica (?)
 
 Good luck and DON'T fuck it up
