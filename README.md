@@ -1,8 +1,8 @@
 # ProgUni3-SKIANTOS
-Progetto universitario Vessio, traccia 3
+Progetto universitario Prof. Vessio UniBA, traccia 3.
 
 # Obiettivi progetto
-(i punti indicati con il punto di domanda sono idee possibili)
+(i punti indicati con il punto di domanda sono idee possibili ma non essenziali)
 - All’avvio controllare connessione internet, connessione server e presenza dei file
     - Inserire la possibilità di crearli se inesistenti (?)
 - Interfaccia utente e amministratore (?)
