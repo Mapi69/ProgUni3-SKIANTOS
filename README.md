@@ -13,17 +13,20 @@ Data di consegna: ?
 - [ ] All’avvio controllare connessione internet, connessione server, presenza e correttezza dei file
     - [ ] Inserire la possibilità di crearli se inesistenti (?)
 - [ ] Necessario un (anche rudimentale) sistema di login
-    - [ ] Aggiungere crittografia (?)
+    - [ ] Aggiungere crittografia (base 64)
 - [ ] Interfaccia utente e amministratore (?)
 - [ ] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
     - [ ] Live feed concerti disponibili (?)
-    - [ ] Inserire controllo dei file per corruzione e correttezza
-- [ ] Ricerca tramite nome show, nome artista, genere, lingue
-    - [ ] Ogni artista ha la sua pagina, contenente descrizione e tour (?)
-- [ ] Ogni utente (cliente) ha il suo file contenente prenotazioni e movimenti dell'account
-    - [ ] Ogni utente ha le sue preferenze musicali per migliorare la ricerca (?)
-- [ ] Ogni amministratore può creare, modificare e eliminare le entry dei concerti / festival dal sistema
+- [ ] Ricerca tramite nome show, nome artista, genere, lingue, orario
+    - [ ] Ogni artista ha la sua pagina, contenente descrizione e tutti i concerti (?)
     - [ ] Aggiungere snippet di 30 secondi utilizzando API di un provider di streaming musicale (?) (Apple Music: https://developer.apple.com/documentation/applemusicapi/)
+- [ ] Ogni utente (cliente) può acquistare una prenotazione a uno o più spettacoli, per una o più persone
+    - [ ] Sarà inoltre possibile effettuare una prenotazione anche se i biglietti sono esauriti, tramite un sistema di coda che controlla costantemente se si libera un posto
+    - [ ] Necessaria l'implementazione di un (anche rudimentale) sistema di pagamento (senza l'utilizzo di soldi veri obv altrimenti diventiamo poveri tra tutte le prove 💸 )
+- [ ] Ogni utente (cliente) può accedere a una schermata dove può vedere tutte le prenotazioni e i movimenti del suo account
+    - [ ] Ogni utente (cliente) può modificare e cancellare le prenotazioni
+    - [ ] Ogni utente ha le sue preferenze musicali per migliorare la ricerca (?)
+- [ ] Ogni amministratore può creare, modificare e eliminare le entry dei concerti / festival dal sistema. Inoltre, ha a disposizione sistemi analitici e di reporting per il festival, per il monitoramento delle vendite dei biglietti, generare report di vendite per spettacolo, visualizzare la capacità residura per ogni spettacolo e gestire le code di attesa per la vendita dei biglietti.
 
 
 # Idee totalmente non essenziali
