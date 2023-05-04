@@ -18,10 +18,12 @@ Data di consegna: ?
 - [ ] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
     - [ ] Live feed concerti disponibili (?)
     - [ ] Inserire controllo dei file per corruzione e correttezza
+- [ ] Ricerca tramite nome artista, genere, lingue
 - [ ] Ogni utente (cliente) ha il suo file contenente prenotazioni e movimenti dell'account
     - [ ] Ogni utente ha le sue preferenze musicali per migliorare la ricerca (?)
 - [ ] Ogni amministratore può creare, modificare e eliminare le entry dei concerti / festival dal sistema
     - [ ] Aggiungere snippet di 30 secondi utilizzando API di un provider di streaming musicale (?) (Apple Music: https://developer.apple.com/documentation/applemusicapi/)
+- [ ] Ogni artista ha la sua pagina, contenente descrizione e tour (?)
 
 
 # Idee totalmente non essenziali
