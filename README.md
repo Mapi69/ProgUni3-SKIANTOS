@@ -9,13 +9,13 @@ Data di consegna: ?
 # Obiettivi progetto
 (i punti indicati con il punto di domanda sono idee possibili ma non essenzialmente necessarie)
 - [X] Creare repository GitHub (beh se stai leggendo questa pagina significa che la repo esiste 🗿)
-- [ ] Trovare un nome per il programma
+- [X] Trovare un nome per il programma
 - [ ] All’avvio controllare connessione internet, connessione server, presenza e correttezza dei file
     - [ ] Inserire la possibilità di crearli se inesistenti (?)
-- [ ] Necessario un (anche rudimentale) sistema di login
+- [X] Necessario un (anche rudimentale) sistema di login
     - [ ] Aggiungere crittografia (base 64)
-- [ ] Interfaccia utente e amministratore (?)
-- [ ] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
+- [X] Interfaccia utente e amministratore (non completa)
+- [X] Mostrare menù di scelta per le azioni (i file devono essere aggiornati ogni volta)
     - [ ] Live feed concerti disponibili (?)
 - [ ] Ricerca tramite nome show, nome artista, genere, lingue, orario, data
     - [ ] Ogni artista ha la sua pagina, contenente descrizione e tutti i concerti (?)
